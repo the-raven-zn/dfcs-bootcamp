@@ -1,0 +1,3 @@
+http://rest.vulnweb.com [[32m200[0m] [[36mInvicti Vulnerable REST API[0m] [18.215.71.186] [[35mApache HTTP Server:2.4.25,Debian,PHP:7.1.26[0m]
+http://testasp.vulnweb.com [[32m200[0m] [[36macuforum forums[0m] [44.238.29.244] [[35mDreamWeaver,IIS:8.5,Microsoft ASP.NET,Windows Server[0m]
+http://testaspnet.vulnweb.com [[32m200[0m] [[36macublog news[0m] [44.238.29.244] [[35mIIS:8.5,Microsoft ASP.NET:2.0.50727,Microsoft Visual Studio,Windows Server[0m]
