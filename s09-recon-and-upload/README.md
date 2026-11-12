@@ -1,5 +1,10 @@
 # S09 — Recon Workflow & File Upload Exploitation
 
+**Student:** Muhammad Zain Nasir
+**Program:** Digital Forensics & Cyber Security Bootcamp — PSEB-CYBER-ISB-02
+**Trainer:** Waseem Abbas Khan
+**Repo folder:** `s09-recon-and-upload`
+
 **Target:** DVWA v1.0.7 on the bundled Metasploitable2 VM
 **Target IP:** `192.168.206.130` (confirmed via `ifconfig` on the target — differs from
 the handout's example IP of `192.168.50.129`; all commands below use the real,
